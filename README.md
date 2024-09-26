@@ -2,13 +2,18 @@
 
 *NANO.PTML Model for read-across prediction of nanosystems in neurosciences*
 
-Shan He1,2,3, Julen Segura2, Harbil Bediaga3,4, Deyani Nocedo-Mena,x Gerardo M. Casanola-Martin1, Bakhtiyor Rasulev1*, Sonia Arrasate2, and Humberto González-Díaz2,5*
+Shan He1,2,3, Karam Nader2, Julen Segura Abarrategi2, Harbil Bediaga3, Deyani Nocedo-Mena,4 
+Estefania Ascencio1,2,3 , Gerardo M. Casanola-Martin1, Idoia Castellanos-Rubio2*, 
+Maite Insausti2,5, Bakhtiyor Rasulev1, Sonia Arrasate2*, and Humberto González-Díaz2,6,7
 
-1 Department of Coatings and Polymeric Materials, North Dakota State University, Fargo, ND 58105, USA.
-2 Department of Organic and Inorganic Chemistry, University of Basque Country UPV/EHU, 48940 Leioa, Spain.
-3 IKERDATA S.L., ZITEK, UPV/EHU, Rectorate Building, nº 6, 48940 Leioa, Greater Bilbao, Basque Country, Spain. 
-4 Facultad de Ciencias Físico Matemáticas UANL, México.
-5 IKERBASQUE, Basque Foundation for Science, 48011 Bilbao, Biscay, Spain.
+1 Department of Coatings and Polymeric Materials, North Dakota State University, Fargo, ND 58108, USA.
+2Department of Organic and Inorganic Chemistry, University of Basque Country UPV/EHU, 48940 Leioa, Spain.
+3IKERDATA S.L., ZITEK, UPV/EHU, Rectorate Building, nº 6, 48940 Leioa, Greater Bilbao, Basque Country, Spain.
+4Faculty of Physical Mathematical Sciences, Autonomous University of Nuevo León, San Nicolás de los Garza, Nuevo León 66455, México
+5BCMaterials, Basque Center for Materials, Applications and Nanostructures, 48940 Leioa, Spain. 
+6 BIOFISIKA: Basque Center for Biophysics CSIC, University of The Basque Country (UPV/EHU), Barrio Sarriena s/n, Leioa, Bizkaia 48940, Basque Country, Spain.
+7IKERBASQUE, Basque Foundation for Science, 48011 Bilbao, Biscay, Spain.
+
 
 # Abstract.
 
